@@ -18,7 +18,7 @@ The template here contains CMS-required E&E outcomes as an example of how conten
 
 ### Example Templates
 
-- [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/FAQs-and-Ongoing-Reporting/Operational%20Report%20Workbook.xlsx) - An example template states may use for submitting metrics data
+- [Operational Report Workbook](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/df601d7d6f69113dee473c11eb2baf443e72fff9/Operational%20Report%20Workbook.xlsx) - An example template states may use for submitting metrics data
 - [Example Certification Request Letter Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/SMC%20Certification%20Request%20Letter%20Template.docx) - An example template of the Certification Request Letter that states must submit to CMS to request certification 
 - [Example Monthly Project Status Reporting Template](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Streamlined%20Modular%20Certification%20Required%20Monthly%20Project%20Status%20Report%20Example%20Template.docx) - An example template states may use to submit required monthly status reports
 

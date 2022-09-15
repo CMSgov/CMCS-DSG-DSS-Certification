@@ -34,7 +34,7 @@ Any systems that were certified prior to the release of SMD # 22-001, are requir
 - [Streamlined Modular Certification](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
 - [Outcomes-based Certification for Electronic Visit Verification (EVV) Systems (PDF)](https://www.medicaid.gov/federal-policy-guidance/downloads/cib102419.pdf)
 - [Box](https://cmsbox.account.box.com/login)
-- [Metrics Procedures Manual](https://github.com/CMSgov/CMCS-DSG-DSS-Certification-Staging/raw/FAQs-and-Ongoing-Reporting/Ongoing%20Reporting/Metrics%20Procedures%20Manual.pdf)
+- [Metrics Procedures Manual](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Ongoing%20Reporting/Metrics%20Procedures%20Manual.pdf)
 - [Metrics FAQs]({{ site.baseurl }}/FAQs/)
 
 ## References

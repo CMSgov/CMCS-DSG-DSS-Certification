@@ -2,7 +2,7 @@
 
 ## Overview
 
-The [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/FAQs-and-Ongoing-Reporting/Ongoing%20Reporting/Metrics%20Procedures%20Manual.pdf) serves as a guide for how MES metric data, reports, and performance information should be submitted by states and processed by the CMS Data Team to support CMS’s goal to have all state metrics included in one database. The process flows described in the document apply to all 13 modules included in the [Streamlining Modular Certification (SMC)](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the [Electronic Visit Verification (EVV) module under the Outcome Based Certification (OBC)](https://www.medicaid.gov/medicaid/data-systems/certification/electronic-visit-verification-outcome-based-certification/index.html).  
+The [Medicaid Enterprise Systems (MES) Data Submissions and Intake Process Procedures Manual](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Ongoing%20Reporting/Metrics%20Procedures%20Manual.pdf) serves as a guide for how MES metric data, reports, and performance information should be submitted by states and processed by the CMS Data Team to support CMS’s goal to have all state metrics included in one database. The process flows described in the document apply to all 13 modules included in the [Streamlining Modular Certification (SMC)](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the [Electronic Visit Verification (EVV) module under the Outcome Based Certification (OBC)](https://www.medicaid.gov/medicaid/data-systems/certification/electronic-visit-verification-outcome-based-certification/index.html).  
  
 In accordance with 42 C.F.R. §§ 433.112(b)(15) and 433.116(b), (c), and (i), states must be capable of producing data, reports, and performance information from and about their MES modules to facilitate evaluation, continuous improvement in business operations, and transparency and accountability, as a condition for receiving enhanced federal matching for MES expenditures. Metrics provide evidence about whether the intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metrics reporting enhances transparency and accountability of IT solutions to help ensure the MES and its modules are meeting statutory and regulatory requirements, as well as the state’s program goals. State reporting also gives states and CMS early and ongoing insight into program evaluation and opportunities for continuous improvement. 
  
@@ -34,7 +34,7 @@ Any systems that were certified prior to the release of SMD # 22-001, are requir
 - [Streamlined Modular Certification](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
 - [Outcomes-based Certification for Electronic Visit Verification (EVV) Systems (PDF)](https://www.medicaid.gov/federal-policy-guidance/downloads/cib102419.pdf)
 - [Box](https://cmsbox.account.box.com/login)
-- [Metrics Procedures Manual](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/FAQs-and-Ongoing-Reporting/Ongoing%20Reporting/Metrics%20Procedures%20Manual.pdf)
+- [Metrics Procedures Manual](https://github.com/CMSgov/CMCS-DSG-DSS-Certification/raw/main/Ongoing%20Reporting/Metrics%20Procedures%20Manual.pdf)
 - [Metrics FAQs]({{ site.baseurl }}/FAQs/)
 
 ## References

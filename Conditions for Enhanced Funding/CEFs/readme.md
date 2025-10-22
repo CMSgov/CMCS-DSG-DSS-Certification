@@ -47,7 +47,7 @@ The following table includes guidance on filling out the ORW, Metric Values tab,
 | 3 | Any Severity | Number of **open** privacy and security risks assessed at **any severity.** This is the sum of all risk levels: very high, high, moderate, low, very low |
 
 ## Additional Resources
-- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
+- [SMC Guidance](../../SMC%20Guidance.pdf)
 - [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
 - Operational Report Workbook (Please reach out to your State Officer to get the template.)
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)

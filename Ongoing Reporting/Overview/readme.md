@@ -52,7 +52,7 @@ For example, if Wyoming originally submitted its EVV data file on September 1, 2
 
 ## Resources
 
-- [SMC Guidance](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html)
+- [SMC Guidance](../../SMC%20Guidance.pdf)
 - [CMS Box](https://cmsbox.account.box.com/login)
 - [Metrics FAQs]({{site.baseurl}}/FAQs/)
 - Operational Report Workbook (Please reach out to your State Officer to get the template.)

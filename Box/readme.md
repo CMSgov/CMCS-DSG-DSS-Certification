@@ -29,6 +29,8 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 
 *Evidence filenames should include the SMC outcome reference number at the beginning, for example, CEF1 or TPL2.
 
+<img src="{{ site.baseurl }}/Box/Example 1.png" width="100%">
+
 ## Operational Reporting Box Configuration
 
 Box folders are already established for each state’s ongoing operational reports. Refer to Example 2 below. States must submit operational reports to CMS containing metrics in support of a state’s annual Operational Advanced Planning Document (OAPD) request for an MES module or solution. CMS may determine states must report some metrics more frequently.  CMS requires states to use the Operational Report Workbook template.
@@ -37,8 +39,6 @@ Box folders are already established for each state’s ongoing operational repor
 - If the state is going through certification, it can upload all metric data captured since go-live once certification is complete.
 
 **Note:** Data submissions that have formatting errors or are missing information need to be corrected by the state before they can be processed.
-
-<img src="{{ site.baseurl }}/Box/Example 1.png" width="100%">
 
 <img src="{{ site.baseurl }}/Box/Example 2.png" width="100%">
 

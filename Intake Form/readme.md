@@ -58,7 +58,7 @@ For more information on CEFs and Outcomes:
 -	[Outcomes and the Certification Process]({{site.baseurl}}/certification-process) 
 -	[Writing a Good Outcome Statement]({{site.baseurl}}/writing-outcome-statements) 
 
-States can also find more details within the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf), including additional details on:
+States can also find more details within the [SMC Guidance](../SMC%20Guidance.pdf), including additional details on:
 -	Scope of Certification
 -	SMC process
 -	Required Artifacts List

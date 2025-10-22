@@ -55,7 +55,7 @@ The state should know when the following are scheduled for completion and are ei
     -	Should be completed prior to the Operational Readiness Testing so these procedures can be tested and updated prior to go-live.
 
 ## Resources 
--	[SMC Guidance Document](../../SMC%20Guidance.pdf) – see Appendix B for the CMS-required outcomes, Appendix C for Required Artifacts, and Appendix D for Framework for the Independent Third-Party Security and Privacy Assessment Guidelines for Medicaid Enterprise Systems
+-	[SMC Guidance Document](../../SMC%20Guidance.pdf)
 -	[Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
 -	MES module outcomes (by business area)
 -	[Writing a good outcome statement]({{site.baseurl}}/writing-outcome-statements)

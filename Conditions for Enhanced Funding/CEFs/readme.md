@@ -29,7 +29,7 @@ The following table includes guidance on filling out the Metric Definition tab i
 
 | Metric Element | Description |
 | -------------- | ----------- |
-| **ID** | [StateAbbreviation]-CR-[ModuleAbbreviation]-CEF-01.1 |
+| **ID** | [StateAbbreviation]-CR-[ModuleAbbreviation]-CEF-09.1 |
 | **Name** | Open privacy and security risks |
 | **Reference #** | CEF09 \| CEF12 \| CEF18 |
 | **Description** | Metric data will be sourced from the POA&M(s), reported quarterly in [list the months it will be reported in by the state here] on the Metric Values tab (using three measure counts), and sent to CMS, with each module’s ORW, quarterly along with the latest POA&M(s). |

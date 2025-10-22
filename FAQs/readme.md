@@ -69,7 +69,7 @@ A: The SMC process is designed to support the IT investment lifecycle phases as 
 
 
 ### Q7: What is the Certification Request Letter, and where do states send it?
-A: States may download an example of the [Certification Request Letter Template](../SMC%20Certification%20Request%20Letter%20Template.docx) on the MES Certification Repository.
+A: States may download an example of the [Sample SMC Certification Request Letter Template](../Sample_SMC_Certification_Request_Letter_Template.docx) on the MES Certification Repository.
 
 States should email the Certification Request Letter to their CMS State Officer and <MES@cms.hhs.gov>. It is also used as an entry criteria for scheduling a CR and a required artifact. The state must also upload the letter to the applicable Box folder for certification.
 

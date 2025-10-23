@@ -6,7 +6,7 @@ The Medicaid Enterprise Systems (MES) Certification Repository is a space for st
 
 This repository organizes outcomes and metrics by MES modules in the left-hand menu. The SMC Guidance further explains what falls within the scope of systems approval (certification) and expectations related to the conditions for the receipt of enhanced funding. States are expected to collaborate with their state business stakeholders and CMS MES State Officer to create state-specific outcomes statements.
 
-[Download the CMS Guidance](SMC%20Guidance.pdf)
+[Download the SMC Guidance](SMC%20Guidance.pdf)
 
 ### Intake Form
 

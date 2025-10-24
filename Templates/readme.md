@@ -8,7 +8,7 @@ The [State Health Official Letter (SHO) #25-003](https://www.medicaid.gov/federa
 - Monthly Project Status Reporting Template - States must use this template for status reports
 
 ## Recommended
-- [Certification Request Letter Template](../SMC%20Certification%20Request%20Letter%20Template.docx) - States must submit the Certification Request Letter to CMS via email to their CMS MES State Officer and MES@cms.hhs.gov to officially request certification
+- [Sample SMC Certification Request Letter Template](../Sample_SMC_Certification_Request_Letter_Template.docx) - States must submit the Certification Request Letter to CMS via email to their CMS MES State Officer and MES@cms.hhs.gov to officially request certification
 - [System Acceptance Letter Template](../SMC%20System%20Acceptance%20Letter%20Sample_v2.docx) - The required System Acceptance Letter must accompany the Certification Request Letter for any official certification request
 - [ORR Sample Agenda](../ORR%20Sample%20Agenda.docx) - An example agenda for an Operational Readiness Review
 - [CR Sample Agenda](../CR%20Sample%20Agenda.docx) - An example agenda for a Certification Review

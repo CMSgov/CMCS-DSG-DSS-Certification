@@ -27,7 +27,7 @@
 The Conditions for Enhanced Funding under 42 CFR 433.112(b), specifically CEF 9, 12, and 18, encompass privacy and security requirements. Please see the [Privacy & Security]({{site.baseurl}}/Conditions for Enhanced Funding/Security and Privacy/) page for additional tips and FAQs for CEF 9, 12, and 18. 
 
 ## Additional Resources
-- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
+- [SMC Guidance](../../SMC%20Guidance.pdf)
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
 - [Section 508 Guidance](https://www.section508.gov/test)
 - [Accessibility Guidance](https://guides.18f.org/accessibility/)

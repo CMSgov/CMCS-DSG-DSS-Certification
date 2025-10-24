@@ -74,7 +74,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 | Metric Element | Description |
 | -------------- | ----------- |
 | **Name** | EVV System Availability |
-| **Outcome Reference #** | EVV08 \| EVV09 |
+| **Outcome Reference #** | EVV07 \| EVV08 \| EVV09 |
 | **Description** | To ensure that the EVV system has a high availability. |
 | **Value Type** | Percent |
 | **Numerator** | Uptime outside of scheduled maintenance |

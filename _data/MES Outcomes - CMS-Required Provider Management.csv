@@ -19,7 +19,7 @@ PM4 Revalidation,The system tracks the provider enrollment period to ensure that
  - # of state providers enrolled that are on the CMS Adverse Actions List/
  - # state providers enrolled",42 CFR 455.414
 PM5 Termination,"A state user (or the system, based on automated business rules) must terminate or deny a provider's enrollment upon certain conditions (refer to the specific regulatory requirements conditions in 42CFR455.416).", - Number of providers denied enrollment or termination of participation with reason.  Provide denial or termination reason. ,42 CFR 455.416
-PM6 Reactivation,"After deactivation, a provider seeking reactivation must be re-screened by the state and submit payment of associated application fees before their enrollment is reactivated."," - Number of providers seeking reactivation and TAT for enrollment. 
+PM6 Reactivation,"After deactivation, a provider seeking reactivation must be re-screened by the state and submit payment of associated application fees before their enrollment is reactivated."," - Number of providers seeking reactivation and turn-around time (TAT) for enrollment. 
  - Number of providers seeking reactivation with submittal of payment and TAT for enrollment. ",42 CFR 455.420
 PM7 Appeal,"A provider can appeal a termination or denial decision, and a state user can monitor the appeal process and resolution including nursing homes and ICFs/IID. ", - Number of provider (by provider type) appeals and status of appeal:  include TAT to final determination. ,42 CFR 455.422
 PM8 Site Visits,A state user can manage information for mandatory pre-enrollment and post-enrollment site visits conducted on a provider in a moderate or high-risk category.," - Number of providers scheduled for site visit categorized by moderate and high risk.  
@@ -52,3 +52,4 @@ PM 20 Change in Circumstances,"A state user can view information from a managed 
 - Include provider state Medicaid status",42 CFR 438.608(a)
 PM 21 Directory,A beneficiary can view and search a provider directory.," - Number of help desk tickets logged for inaccessibility to provider directory. 
  - Number of website hits on provider directory page. ",42 CFR 438.10(h)
+

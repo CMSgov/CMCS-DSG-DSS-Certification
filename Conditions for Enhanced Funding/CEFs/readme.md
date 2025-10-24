@@ -29,7 +29,7 @@ The following table includes guidance on filling out the Metric Definition tab i
 
 | Metric Element | Description |
 | -------------- | ----------- |
-| **ID** | [StateAbbreviation]-CR-[ModuleAbbreviation]-CEF-01.1 |
+| **ID** | [StateAbbreviation]-CR-[ModuleAbbreviation]-CEF-09.1 |
 | **Name** | Open privacy and security risks |
 | **Reference #** | CEF09 \| CEF12 \| CEF18 |
 | **Description** | Metric data will be sourced from the POA&M(s), reported quarterly in [list the months it will be reported in by the state here] on the Metric Values tab (using three measure counts), and sent to CMS, with each module’s ORW, quarterly along with the latest POA&M(s). |
@@ -47,7 +47,7 @@ The following table includes guidance on filling out the ORW, Metric Values tab,
 | 3 | Any Severity | Number of **open** privacy and security risks assessed at **any severity.** This is the sum of all risk levels: very high, high, moderate, low, very low |
 
 ## Additional Resources
-- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
+- [SMC Guidance](../../SMC%20Guidance.pdf)
 - [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
 - Operational Report Workbook (Please reach out to your State Officer to get the template.)
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)

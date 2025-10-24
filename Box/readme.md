@@ -14,7 +14,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
     - Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
 - Metrics – should contain the definitions of the metrics for ORR. CMS requires states to use the Operational Report Workbook Template. (Please reach out to your State Officer to get the template.)
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
-- Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf). This will also contain any files applicable to the entry criteria.
+- Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](../SMC%20Guidance.pdf). This will also contain any files applicable to the entry criteria.
 
 **CR**
 - Evidence* – should contain the Intake Form and two subfolders:
@@ -22,12 +22,14 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 	- Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by the outcome.
 - Metrics – should contain the monthly metrics data reports required for CR. CMS requires states to use the Operational Report Workbook Template. (Please reach out to your State Officer to get the template.) Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
-- Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf). This will also contain any files applicable to the entry criteria.
+- Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](../SMC%20Guidance.pdf). This will also contain any files applicable to the entry criteria.
 
 **Project Status Reports**
 - Should contain all applicable status reports for the entire project.
 
 *Evidence filenames should include the SMC outcome reference number at the beginning, for example, CEF1 or TPL2.
+
+<img src="{{ site.baseurl }}/Box/Example 1.png" width="100%">
 
 ## Operational Reporting Box Configuration
 
@@ -37,8 +39,6 @@ Box folders are already established for each state’s ongoing operational repor
 - If the state is going through certification, it can upload all metric data captured since go-live once certification is complete.
 
 **Note:** Data submissions that have formatting errors or are missing information need to be corrected by the state before they can be processed.
-
-<img src="{{ site.baseurl }}/Box/Example 1.png" width="100%">
 
 <img src="{{ site.baseurl }}/Box/Example 2.png" width="100%">
 

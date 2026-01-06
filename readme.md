@@ -16,7 +16,7 @@ The Intake Form Template tracks information about a state’s MES module for cer
 
 [Download a copy of the Intake Form pre-populated for EVV](SMC%20Intake%20Form_EVV.xlsx)
 
-Additional guidance on how to use the Intake Form is available [here]({{site.baseurl}}/Intake Form/).
+Additional guidance on how to use the Intake Form is available [here](/Intake Form/).
 
 ### Additional Templates
 

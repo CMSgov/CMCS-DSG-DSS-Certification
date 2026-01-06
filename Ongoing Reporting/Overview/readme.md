@@ -52,7 +52,7 @@ For example, if Wyoming originally submitted its EVV data file on September 1, 2
 
 ## Resources
 
-- [SMC Guidance](../../SMC%20Guidance.pdf)
+- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [CMS Box](https://cmsbox.account.box.com/login)
 - [Metrics FAQs]({{site.baseurl}}/FAQs/)
 - [Operational Report Workbook](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx)

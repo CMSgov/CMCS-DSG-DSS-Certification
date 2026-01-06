@@ -2,9 +2,9 @@
 
 The Conditions for Enhanced Funding (CEF) under 42 CFR § 433.112(b), and specifically CEF 9, 12, and 18, encompass privacy and security requirements that are mandatory for and integral to all Medicaid Enterprise Systems (MES). 
 
-Please visit the [CEF]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page for examples and required evidence. 
+Please visit the [CEF](../../Conditions for Enhanced Funding/CEFs/) page for examples and required evidence. 
 
-Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page for additional tips and best practices. 
+Please visit the [CEF Tips and Best Practices](../../Conditions for Enhanced Funding/CEF Tips/) page for additional tips and best practices. 
 
 Use the links below to navigate to each section of this page: 
 - [Laws, Regulations, and Policies](#policy) 

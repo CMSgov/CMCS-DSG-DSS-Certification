@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Streamlined Modular Certification (SMC) process uses the Intake Form Template (please reach out to your State Officer to get the template) to track information about a state’s single Medicaid Enterprise Systems (MES) system(s) or module undergoing certification. States must complete the Intake Form by entering the CMS-required outcomes and metric ID, which demonstrate compliance with relevant regulations for their specific system or module. States must also include their state-specific outcomes and the metrics used to show that the project is achieving its outcomes on a continuous basis.
+The Streamlined Modular Certification (SMC) process uses the [Intake Form Template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/intake-form.xlsx) to track information about a state’s single Medicaid Enterprise Systems (MES) system(s) or module undergoing certification. States must complete the Intake Form by entering the CMS-required outcomes and metric ID, which demonstrate compliance with relevant regulations for their specific system or module. States must also include their state-specific outcomes and the metrics used to show that the project is achieving its outcomes on a continuous basis.
 
 ## Using the Intake Form
 

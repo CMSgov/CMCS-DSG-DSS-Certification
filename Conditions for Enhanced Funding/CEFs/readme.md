@@ -16,7 +16,7 @@ This table and the applicable business area outcomes are a starting point for al
 
 {% include table.html table=cms %}
 
-[Click here for CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/)
+[Click here for CEF Tips and Best Practices](../../Conditions for Enhanced Funding/CEF Tips/)
 
 ## Metrics
 As part of the ongoing continuous monitoring process on the security and privacy risk posture for an approved MES Information Technology (IT) environment, the state must demonstrate the efficacy of its continuous monitoring program through annual metrics reporting to meet the security and privacy elements of the CEF.  

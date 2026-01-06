@@ -27,7 +27,7 @@ Prior to requesting to schedule an Operational Readiness Review (ORR), the state
 - Link to CMS Box location
     - Work with your CMS State Officer, who will set up a file structure in CMS Box and provide this link.
 
-Note that meeting the above entry criteria for ORR only clears the way for scheduling the ORR. Two weeks prior to the ORR, the state must provide the most up-to-date documents in the applicable certification [Box folders]({{site.baseurl}}/Box/) for evaluation by the CMS Certification Team.
+Note that meeting the above entry criteria for ORR only clears the way for scheduling the ORR. Two weeks prior to the ORR, the state must provide the most up-to-date documents in the applicable certification [Box folders](../../Box/) for evaluation by the CMS Certification Team.
 
 
 For the ORR, the following steps are completed:
@@ -57,12 +57,12 @@ For the ORR, the following steps are completed:
 ## Resources 
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
-- [Templates]({{site.baseurl}}/Templates/)
-- [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) (includes FAQs under the Resources section) 
-- [CEF Example Evidence, Tips, and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/)
-- [Intake Form Guidance]({{site.baseurl}}/Intake Form/)
+- [Templates](../../Templates/)
+- [Metrics and Ongoing Reporting](../../Ongoing Reporting/Overview/) (includes FAQs under the Resources section) 
+- [CEF Example Evidence, Tips, and Best Practices](../../Conditions for Enhanced Funding/CEFs/)
+- [Intake Form Guidance](../../Intake Form/)
 - [Medicaid Enterprise Systems Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
-- [Using Box]({{site.baseurl}}/Box/)
+- [Using Box]({../../Box/)
 - [CMS Information Security POA&M Procedure document](https://www.cms.gov/files/document/poamprocedurepdf)
 
 ## References

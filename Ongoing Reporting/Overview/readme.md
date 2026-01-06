@@ -16,7 +16,7 @@ Module-specific outcomes and metrics must be included when submitting an APD or 
 
 Default metrics for MES modules are available on the CMS MES Certification Repository. 
 
-For information on how to develop state outcomes and metrics statements, refer to [Writing a Good Outcome]({{site.baseurl}}/writing-outcome-statements). 
+For information on how to develop state outcomes and metrics statements, refer to [Writing a Good Outcome](../../writing-outcome-statements). 
 
 States may need to update outcomes and metrics due to lessons learned, changing Medicaid priorities, or feedback from a certification. If a state revises its outcomes and metrics, an APD-Update (APD-U) is required. States should consult their CMS MES State Officer to discuss such updates.  
 
@@ -24,13 +24,13 @@ States may need to update outcomes and metrics due to lessons learned, changing 
 
 States are required to use the [Operational Report Workbook (ORW) template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx) to submit their operational metrics by module. The Excel template includes three tabs: the first contains general instructions completing it, followed by two tabs for data entry, titled “Metric Definitions” and “Metric Values.” Additional instructions for the ORW are located on the MES Certification Repository.   
 
-For the state-submitted metrics data to be successfully processed, the state needs to fill in and correctly format the required data fields. Refer to the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rules%20and%20Guidelines/), for the list of required data and data entry rules.  
+For the state-submitted metrics data to be successfully processed, the state needs to fill in and correctly format the required data fields. Refer to the [Operational Report Workbook Validation Rules](../../Ongoing%20Reporting/Rules%20and%20Guidelines/), for the list of required data and data entry rules.  
 
 The state should use the following filename format and should not exceed 255 characters: 
 
 Operational_Report_StateAbb_ModuleAbb_YYYY-MM-DD.xlsx 
 
-The date used should be the date when the state submits its data file to the state’s metric folder located on CMS Box. The filename should use standard [State abbreviations]({{site.baseurl}}/Ongoing%20Reporting/State%20Abbreviations/) and [Module Type abbreviations]({{site.baseurl}}/Ongoing%20Reporting/Module%20Abbreviations/).  For example, “Operational_Report_VA_CP_2022-01-22.xlsx”. 
+The date used should be the date when the state submits its data file to the state’s metric folder located on CMS Box. The filename should use standard [State abbreviations](../../Ongoing%20Reporting/State%20Abbreviations/) and [Module Type abbreviations](../../Ongoing%20Reporting/Module%20Abbreviations/).  For example, “Operational_Report_VA_CP_2022-01-22.xlsx”. 
 
 ### Step 2: Submit to CMS Box
 
@@ -44,7 +44,7 @@ When the state uploads an operational report file to the state appropriate CMS B
 
 ### Step 3: Data Ingestion
 
-To be successfully processed, the state-submitted metrics reports must meet the reporting specifications described in the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rules%20and%20Guidelines/), e.g., the correct file name format, content in the required columns, and correctly formatted data.  
+To be successfully processed, the state-submitted metrics reports must meet the reporting specifications described in the [Operational Report Workbook Validation Rules](../../Ongoing%20Reporting/Rules%20and%20Guidelines/), e.g., the correct file name format, content in the required columns, and correctly formatted data.  
 
 If the file is processed successfully and loaded into the CMS database, the report’s status is Completed, and the processed file is moved to the “archive” subfolder within the state’s metrics folder. If there are issues importing the data, CMS will work with the state to help resolve the issues. When re-submitting a corrected file, the state should rename the file to the new submission date and upload it to the same metrics folder on Box.  
 
@@ -54,7 +54,7 @@ For example, if Wyoming originally submitted its EVV data file on September 1, 2
 
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [CMS Box](https://cmsbox.account.box.com/login)
-- [Metrics FAQs]({{site.baseurl}}/FAQs/)
+- [Metrics FAQs](../../FAQs/)
 - [Operational Report Workbook](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx)
 
 ## References

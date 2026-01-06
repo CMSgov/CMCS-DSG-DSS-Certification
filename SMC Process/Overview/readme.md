@@ -12,9 +12,9 @@ As shown below, engagement during each phase of the MES IT investment lifecycle 
 <img src="{{ site.baseurl }}/SMC Process/Overview/Process Overview.png" width="100%">
 
 ## For information on SMC in each phase, please visit the following phases: 
--	[Planning]({{site.baseurl}}/SMC Process/Planning/)
--	[Development]({{site.baseurl}}/SMC Process/Development/)
--	[Production]({{site.baseurl}}/SMC Process/Production/)
+-	[Planning](../SMC Process/Planning/)
+-	[Development](../SMC Process/Development/)
+-	[Production](../SMC Process/Production/)
 
 This reference material includes information supplemental to the SMC Guidance. It does not replace the SMC Guidance but includes additional details for states to help them navigate the certification process.
 

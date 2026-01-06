@@ -145,7 +145,7 @@ Answer: CMS recommends the following timeline for addressing privacy and securit
 - Train staff on their role and performance expectations to prevent cybersecurity attacks.
 
 ## Additional Resources {#resources}
-- [SMC Guidance](../../SMC%20Guidance.pdf)
+- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Section 508 Guidance](https://www.section508.gov/test)
 - [Accessibility Guidance](https://guides.18f.org/accessibility/)
 - [Incident Response](https://www.cms.gov/about-cms/information-systems/privacy/incident-response)

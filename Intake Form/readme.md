@@ -25,7 +25,7 @@ The state will use this tab to demonstrate the Conditions for Enhanced Funding�
 
 In the Evidence columns, list the file name(s) of documents containing supporting evidence as loaded in the CMS-designated repository. For lengthy documents, use the Comments column to specify relevant sections or paragraphs to assist the CMS Certification Team in the review process. If links to PDF files are included in the Intake Form, the corresponding PDF versions of any web file must also be uploaded to the CMS-designated repository for review.
 
-In the Comments column, the state can also describe how the contents of the evidence files meet the condition and any other information needed for evaluation. CEF criteria do not require demonstrations. States can refer to the [Conditions for Enhanced Funding]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) for example, and/or required evidence.
+In the Comments column, the state can also describe how the contents of the evidence files meet the condition and any other information needed for evaluation. CEF criteria do not require demonstrations. States can refer to the [Conditions for Enhanced Funding](../../Conditions for Enhanced Funding/CEFs/) for example, and/or required evidence.
 
 All CEF criteria must be listed within the Intake Form. If a condition is not applicable, the state must mark “N/A” in the “State ORR Evidence” and “State CR Evidence” columns. The state must justify why the outcome is not applicable to their system in the “Comments” column for both the ORR and CR columns.
  
@@ -54,9 +54,9 @@ In the “State ORR Required Artifact” and “State CR Required Artifact” co
 
 ## Resources
 For more information on CEFs and Outcomes:
--	[Conditions for Enhanced Funding]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) 
--	[Outcomes and the Certification Process]({{site.baseurl}}/certification-process) 
--	[Writing a Good Outcome Statement]({{site.baseurl}}/writing-outcome-statements) 
+-	[Conditions for Enhanced Funding](../../Conditions for Enhanced Funding/CEFs/) 
+-	[Outcomes and the Certification Process](../../certification-process) 
+-	[Writing a Good Outcome Statement](../../writing-outcome-statements) 
 
 States can also find more details within the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf), including additional details on:
 -	Scope of Certification

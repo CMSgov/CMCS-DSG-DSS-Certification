@@ -94,7 +94,7 @@ The following are key takeaways and updates from the most recent version of the 
 - Electronic Visit Verification (EVV) Outcomes Based Certification (OBC) will follow the SMC Guidance.
 - Removed the CMS-required outcome appendices; they are now located only in the MES Certification Repository on GitHub.
 - Clarified which modules must be certified through the new “Scope of Certification”.
-- Introduced a new required Status Report template; refer to the MES Certification Repository [Templates Page]({{site.baseurl}}/Templates/) (this is required monthly for those performing SMC).
+- Introduced a new required Status Report template; refer to the MES Certification Repository [Templates Page](../Templates/) (this is required monthly for those performing SMC).
 - Introduced a new CEF metric for all MES modules; refer to the MES Certification Repository CEF page for metric details.
 
 ### Q12: How does a state determine if a system requires certification?
@@ -117,7 +117,7 @@ The letter formally sunsets the existing EVV OBC process. States must adhere to 
 
 ## Outcomes and Metrics {#outcomes}
 
-Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) page on GitHub for additional information.
+Please visit the [Metrics and Ongoing Reporting](../Ongoing Reporting/Overview/) page on GitHub for additional information.
 
 ### Q16: Are there resources to help states work with their State Officers to develop appropriate state-specific outcomes and metrics?
 A: States should discuss their ideas for outcomes early in the planning process and include these outcomes in the Advance Planning Document (APD). State-specific outcomes should be specific to the state’s IT investment and should help the state demonstrate progress toward meeting its goals. Resources to help states are available on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.
@@ -156,11 +156,11 @@ A: The term “hard edits” for an EVV module means the claim should be denied 
 
 ## Conditions for Enhanced Funding {#CEF}
 
-Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page on GitHub for examples of evidence.  The CEF includes privacy and security (please refer to CEF 9, 12, and 18). 
+Please visit the [Conditions for Enhanced Funding (CEF)](../Conditions for Enhanced Funding/CEFs/) page on GitHub for examples of evidence.  The CEF includes privacy and security (please refer to CEF 9, 12, and 18). 
 
-Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
+Please visit the [CEF Tips and Best Practices](../Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
 
-Please visit the [CEF Security and Privacy]({{site.baseurl}}/Conditions for Enhanced Funding/Security and Privacy/) page on GitHub for additional security and privacy tips, best practices, and FAQs.  
+Please visit the [CEF Security and Privacy](../Conditions for Enhanced Funding/Security and Privacy/) page on GitHub for additional security and privacy tips, best practices, and FAQs.  
 
 ***
 

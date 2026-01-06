@@ -12,7 +12,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 - Evidence* – should contain the Intake Form and two subfolders:
     - CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
     - Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by outcome.
-- Metrics – should contain the definitions of the metrics for ORR. CMS requires states to use the Operational Report Workbook Template. (Please reach out to your State Officer to get the template.)
+- Metrics – should contain the definitions of the metrics for ORR. CMS requires states to use the [Operational Report Workbook](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx).
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](../SMC%20Guidance.pdf). This will also contain any files applicable to the entry criteria.
 
@@ -20,7 +20,7 @@ Your CMS State Officer will establish a single Box folder for each individual mo
 - Evidence* – should contain the Intake Form and two subfolders:
 	- CEF – should contain the evidence listed in the Intake Form for applicable Conditions for Enhanced Funding. There is no need for additional sub-folders.
 	- Outcomes – should contain the evidence listed in the Intake Form for applicable CMS-required and state-specific outcomes. If needed, include additional sub-folders by the outcome.
-- Metrics – should contain the monthly metrics data reports required for CR. CMS requires states to use the Operational Report Workbook Template. (Please reach out to your State Officer to get the template.) Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
+- Metrics – should contain the monthly metrics data reports required for CR. CMS requires states to use the [Operational Report Workbook](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx). Note: once the state is certified, they will need to load the final metrics to the applicable metric folder on CMS Box.
 - Presentation – should contain the presentation for the day of the review and any other meeting documentation.
 - Required Artifacts – should contain the applicable Required Artifacts listed in Appendix C of the [Streamlined Modular Certification for Medicaid Enterprise Systems Certification Guidance](../SMC%20Guidance.pdf). This will also contain any files applicable to the entry criteria.
 

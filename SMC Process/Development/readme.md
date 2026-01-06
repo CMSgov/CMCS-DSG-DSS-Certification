@@ -62,7 +62,7 @@ For the ORR, the following steps are completed:
 - [CEF Example Evidence, Tips, and Best Practices](../../Conditions for Enhanced Funding/CEFs/)
 - [Intake Form Guidance](../../Intake Form/)
 - [Medicaid Enterprise Systems Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
-- [Using Box]({../../Box/)
+- [Using Box](../../Box/)
 - [CMS Information Security POA&M Procedure document](https://www.cms.gov/files/document/poamprocedurepdf)
 
 ## References

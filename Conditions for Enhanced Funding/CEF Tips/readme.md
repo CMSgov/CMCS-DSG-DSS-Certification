@@ -24,7 +24,7 @@
 -	A ConOps “describes the proposed system in terms of the user needs it will fulfill, its relationship to existing systems or procedures, and the ways it will be used. ConOps can be tailored for many purposes, for example, to obtain consensus among the acquirer, developers, supporters, and user agencies on the operational concept of a proposed system. Additionally, a ConOps may focus on communicating the user’s needs to the developer or the developer’s ideas to the user and other interested parties.”[^2]
 
 ## Security and Privacy
-The Conditions for Enhanced Funding under 42 CFR 433.112(b), specifically CEF 9, 12, and 18, encompass privacy and security requirements. Please see the [Privacy & Security]({{site.baseurl}}/Conditions for Enhanced Funding/Security and Privacy/) page for additional tips and FAQs for CEF 9, 12, and 18. 
+The Conditions for Enhanced Funding under 42 CFR 433.112(b), specifically CEF 9, 12, and 18, encompass privacy and security requirements. Please see the [Privacy & Security](../../Conditions for Enhanced Funding/Security and Privacy/) page for additional tips and FAQs for CEF 9, 12, and 18. 
 
 ## Additional Resources
 - [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)

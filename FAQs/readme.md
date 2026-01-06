@@ -1,6 +1,6 @@
 # Streamlined Modular Certification Frequently Asked Questions (FAQs)
 
-CMS prepared this set of FAQs to inform states and the public about the Streamlined Modular Certification (SMC) process and requirements. The [SMC Guidance](../SMC%20Guidance.pdf) is the primary source of information on the SMC process and requirements. Other helpful information is available in the MES Certification Repository, and State Officers are available to answer your questions. Questions may also be submitted via the Medicaid Enterprise System mailbox at <MES@cms.hhs.gov>. 
+CMS prepared this set of FAQs to inform states and the public about the Streamlined Modular Certification (SMC) process and requirements. The [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) is the primary source of information on the SMC process and requirements. Other helpful information is available in the MES Certification Repository, and State Officers are available to answer your questions. Questions may also be submitted via the Medicaid Enterprise System mailbox at <MES@cms.hhs.gov>. 
 
 - [Overview of SMC](#overview)
 - [What States Must Know about the SMC Process](#impact)
@@ -30,7 +30,7 @@ For all systems that comprise the MES, SMC is designed to:
 -	Leverage data and testing to better inform CMS’s assessment of the successful delivery of systems and better inform subsequent funding decisions.
 
 ### Q2: How can I learn about the new SMC process and requirements? 
-A: The [State Medicaid Director Letter (SMDL) # 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf) and the [SMC Guidance](../SMC%20Guidance.pdf) are the primary sources of information on the SMC process and requirements. Materials and tools are available to help facilitate the SMC process on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.  
+A: The [State Medicaid Director Letter (SMDL) # 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf) and the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) are the primary sources of information on the SMC process and requirements. Materials and tools are available to help facilitate the SMC process on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.  
 
 ### Q3: Can we provide the entry criteria after we schedule the review?
 A: No. States must provide entry criteria for both ORR and CR before a formal review is scheduled. In order to reduce risk to the process, a state may not schedule a review with CMS more than three months before the intended date for the review.

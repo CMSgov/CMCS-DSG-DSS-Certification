@@ -1,6 +1,6 @@
 # Process Overview
 
-As outlined in the [State Medicaid Director Letter (SMDL) #22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf), released on April 14, 2022, states may request enhanced Federal Financial Participation (FFP) at 75% of expenditures for the operation of a Mechanized Claims Processing and Information Retrieval Systems (MCPIRS) following adherence to the [Streamlined Modular Certification (SMC) process](../../SMC%20Guidance.pdf) for Medicaid Enterprise Systems (MES). 
+As outlined in the [State Medicaid Director Letter (SMDL) #22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf), released on April 14, 2022, states may request enhanced Federal Financial Participation (FFP) at 75% of expenditures for the operation of a Mechanized Claims Processing and Information Retrieval Systems (MCPIRS) following adherence to the [Streamlined Modular Certification (SMC) process](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) for Medicaid Enterprise Systems (MES). 
 
 The  MES Information Technology (IT) investment lifecycle consists of three phases:
 -	Planning phase: When the state is in the planning phase of a project, it develops the initial outcomes desired for the new module and works with CMS to refine them.
@@ -20,7 +20,7 @@ This reference material includes information supplemental to the SMC Guidance. I
 
 ## Resources 
 -	[SMDL # 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf), released on April 14, 2022
--	[SMC Guidance](../../SMC%20Guidance.pdf)
+-	[SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 -	[Code of Federal Regulations](https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-C/part-433)
 
 ## References

@@ -6,7 +6,7 @@ Outcomes and metrics are important aspects of the Advance Planning Document (APD
 
 Typically, outcomes and metrics are required when states receive enhanced funding. Outcomes and metrics are not required if the activities and projects involved are routine or consist of planning and operational functions, such as hardware maintenance, gap analysis, Request for Proposal development, and security patches.
 
-CMS-required outcomes are based on statutory or regulatory requirements to promote the efficient, economical, and effective administration of a state’s Medicaid program. State-specific outcomes and the associated metrics measure the success of a MES project. State-specific outcomes should target specific state problems and produce Medicaid program benefits. See [Writing a Good Outcome page]({{site.baseurl}}/writing-outcome-statements) for more information on outcomes.
+CMS-required outcomes are based on statutory or regulatory requirements to promote the efficient, economical, and effective administration of a state’s Medicaid program. State-specific outcomes and the associated metrics measure the success of a MES project. State-specific outcomes should target specific state problems and produce Medicaid program benefits. See [Writing a Good Outcome page](writing-outcome-statements) for more information on outcomes.
 
 This general overview explains when outcomes and metrics are applicable to the APD and SMC certification processes.
 

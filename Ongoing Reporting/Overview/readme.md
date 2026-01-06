@@ -6,7 +6,7 @@ CMS reviews the metrics included in the operational reports during the APD revie
 
 Metrics provide evidence of whether intended outcomes are achieved through the delivery of a new module or enhancement to an existing module. Metric reporting enhances transparency and accountability and helps to ensure that a state’s MES and its modules meet statutory and regulatory requirements, as well as the state’s own program goals. Metrics reporting also gives states and CMS early and ongoing insights to use for program evaluation and continuous improvement. 
 
-[Download this page as a PDF](../../Metrics%20Intake%20and%20Procedures%20Manual.pdf). 
+[Download the Metrics Intake and Procedures Manual](../../Metrics%20Intake%20and%20Procedures%20Manual.pdf). 
 
 ## Detailed MES Data Submission and Intake Process
 
@@ -22,7 +22,7 @@ States may need to update outcomes and metrics due to lessons learned, changing 
 
 ### Step 1: Create the Operational Report
 
-States are required to use the Operational Report Workbook (ORW) template (please reach out to your State Officer to get the template) to submit their operational metrics by module. The Excel template includes three tabs: the first contains general instructions completing it, followed by two tabs for data entry, titled “Metric Definitions” and “Metric Values.” Additional instructions for the ORW are located on the MES Certification Repository.   
+States are required to use the [Operational Report Workbook (ORW) template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx) to submit their operational metrics by module. The Excel template includes three tabs: the first contains general instructions completing it, followed by two tabs for data entry, titled “Metric Definitions” and “Metric Values.” Additional instructions for the ORW are located on the MES Certification Repository.   
 
 For the state-submitted metrics data to be successfully processed, the state needs to fill in and correctly format the required data fields. Refer to the [Operational Report Workbook Validation Rules]({{site.baseurl}}/Ongoing%20Reporting/Rules%20and%20Guidelines/), for the list of required data and data entry rules.  
 
@@ -55,7 +55,7 @@ For example, if Wyoming originally submitted its EVV data file on September 1, 2
 - [SMC Guidance](../../SMC%20Guidance.pdf)
 - [CMS Box](https://cmsbox.account.box.com/login)
 - [Metrics FAQs]({{site.baseurl}}/FAQs/)
-- Operational Report Workbook (Please reach out to your State Officer to get the template.)
+- [Operational Report Workbook](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx)
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Outcomes and the Certification Process TEST
+# Outcomes and the Certification Process
 Outcomes and metrics are important aspects of the Advance Planning Document (APD) and Streamlined Modular Certification (SMC) processes. However, not all Medicaid Enterprise System (MES) projects require certification, and not all APDs require outcomes.
 
 Typically, outcomes and metrics are required when states receive enhanced funding. Outcomes and metrics are not required if the activities and projects involved are routine or consist of planning and operational functions, such as hardware maintenance, gap analysis, Request for Proposal development, and security patches.

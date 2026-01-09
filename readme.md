@@ -1,4 +1,4 @@
-# Welcome to the MES Certification Repository TESTING
+# Welcome to the MES Certification Repository
 
 The Medicaid Enterprise Systems (MES) Certification Repository is a space for states, CMS, and vendors to learn, share, and contribute information about the MES Certification process and its related artifacts. From this site, you can access the most current information about CMS-required outcomes and default metrics, as well as examples of CMS approved, state-specific outcomes and metrics.
 

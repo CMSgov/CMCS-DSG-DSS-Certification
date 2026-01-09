@@ -16,7 +16,7 @@ This table and the applicable business area outcomes are a starting point for al
 
 {% include table.html table=cms %}
 
-[Click here for CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/)
+[Click here for CEF Tips and Best Practices](../../Conditions for Enhanced Funding/CEF Tips/)
 
 ## Metrics
 As part of the ongoing continuous monitoring process on the security and privacy risk posture for an approved MES Information Technology (IT) environment, the state must demonstrate the efficacy of its continuous monitoring program through annual metrics reporting to meet the security and privacy elements of the CEF.  
@@ -47,9 +47,9 @@ The following table includes guidance on filling out the ORW, Metric Values tab,
 | 3 | Any Severity | Number of **open** privacy and security risks assessed at **any severity.** This is the sum of all risk levels: very high, high, moderate, low, very low |
 
 ## Additional Resources
-- [SMC Guidance](../../SMC%20Guidance.pdf)
+- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [MES Testing Guidance Framework](https://www.medicaid.gov/medicaid/data-and-systems/downloads/mes-testing-guidance-framework.pdf)
-- Operational Report Workbook (Please reach out to your State Officer to get the template.)
+- [Operational Report Workbook](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx)
 - [Transformed Medicaid Statistical Information System (T-MSIS)](https://www.medicaid.gov/medicaid/data-systems/macbis/transformed-medicaid-statistical-information-system-t-msis/index.html)
 - [Section 508 Guidance](https://www.section508.gov/test)
 - [Accessibility Guidance](https://accessibility.18f.gov)

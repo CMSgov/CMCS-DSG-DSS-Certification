@@ -2,9 +2,9 @@
 
 The Conditions for Enhanced Funding (CEF) under 42 CFR § 433.112(b), and specifically CEF 9, 12, and 18, encompass privacy and security requirements that are mandatory for and integral to all Medicaid Enterprise Systems (MES). 
 
-Please visit the [CEF]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page for examples and required evidence. 
+Please visit the [CEF](../../Conditions for Enhanced Funding/CEFs/) page for examples and required evidence. 
 
-Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page for additional tips and best practices. 
+Please visit the [CEF Tips and Best Practices](../../Conditions for Enhanced Funding/CEF Tips/) page for additional tips and best practices. 
 
 Use the links below to navigate to each section of this page: 
 - [Laws, Regulations, and Policies](#policy) 
@@ -145,7 +145,7 @@ Answer: CMS recommends the following timeline for addressing privacy and securit
 - Train staff on their role and performance expectations to prevent cybersecurity attacks.
 
 ## Additional Resources {#resources}
-- [SMC Guidance](../../SMC%20Guidance.pdf)
+- [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf)
 - [Section 508 Guidance](https://www.section508.gov/test)
 - [Accessibility Guidance](https://guides.18f.org/accessibility/)
 - [Incident Response](https://www.cms.gov/about-cms/information-systems/privacy/incident-response)

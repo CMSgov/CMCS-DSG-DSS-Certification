@@ -12,13 +12,15 @@ This repository organizes outcomes and metrics by MES modules in the left-hand m
 
 The Intake Form Template tracks information about a state’s MES module for certification throughout the SMC process. The template is tailored for each state project.  States will enter (1) all of the CMS-required outcomes for the module associated with their project, (2) their state-specific outcomes, and (3) the metric IDs that show that the project is achieving its outcomes continuously.
 
-Please reach out to your State Officer to get a blank copy of the Intake Form or a copy of the Intake Form pre-populated for EVV.
+[Download the Intake Form](https://www.medicaid.gov/medicaid/data-and-systems/downloads/intake-form.xlsx)
 
-Additional guidance on how to use the Intake Form is available [here]({{site.baseurl}}/Intake Form/).
+[Download a copy of the Intake Form pre-populated for EVV](SMC%20Intake%20Form_EVV.xlsx)
+
+Additional guidance on how to use the Intake Form is available [here](Intake Form/). 
 
 ### Additional Templates
 
-The [Templates Page]({{site.baseurl}}/Templates/) contains a list of required and recommended certification-related templates.
+The [Templates Page](Templates/) contains a list of required and recommended certification-related templates.
 
 ## Recent Updates
 

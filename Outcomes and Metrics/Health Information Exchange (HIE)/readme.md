@@ -16,7 +16,7 @@ For an HIE system to receive enhanced funding, states will need to identify outc
 
 The state is responsible for drafting State-specific outcomes and metrics.  These should detail the benefit to Medicaid program.
 
-When drafting state-specific outcomes statements, keep [these tips]({{ site.baseurl }}/writing-outcome-statements) in mind.
+When drafting state-specific outcomes statements, keep [these tips](../../writing-outcome-statements) in mind.
 
 ### Examples for Health Information Exchanges
 

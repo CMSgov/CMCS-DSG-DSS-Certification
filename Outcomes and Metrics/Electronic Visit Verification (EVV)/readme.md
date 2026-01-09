@@ -10,7 +10,7 @@ Electronic Visit Verification (EVV) is a system under which visits conducted as 
 
 Each CMS-required outcome is based on statutory or regulatory requirements or a requirement for receiving system approval from CMS, otherwise known as systems certification. CMS-required outcomes and metrics are used to demonstrate that a system is compliant with the applicable federal regulations that pertain to that specific system or module. CMS-required outcomes form the baseline for system/module functionality, which must continue to receive enhanced federal funding for operations.
 
-Please reach out to your State Officer to get a copy of the Intake Form pre-populated for EVV.
+[Download a copy of the Intake Form pre-populated for EVV](../../SMC%20Intake%20Form_EVV.xlsx).
 
 | Reference Number | CMS Required Outcomes | Default Metrics | Required Evidence | Regulatory Source |
 | ---------------- | --------------------- | --------------- | ----------------- | ----------------- |
@@ -89,7 +89,7 @@ The following tables include guidance on filling out the Metric Definition tab i
 
 States requesting enhanced FFP for systems that fulfill _state-specific program needs_, beyond minimum legal requirements and the baseline of the _CMS-required outcomes_, should propose _state-specific outcomes_ that address the proposed enhancements.
 
-When drafting state-specific outcomes statements, keep [these tips]({{ site.baseurl }}/writing-outcome-statements) in mind.
+When drafting state-specific outcomes statements, keep [these tips](../../writing-outcome-statements) in mind.
 
 ### Examples for this Electronic Visit Verification
 

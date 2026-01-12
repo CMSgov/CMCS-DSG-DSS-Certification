@@ -1,6 +1,6 @@
 # Streamlined Modular Certification Frequently Asked Questions (FAQs)
 
-CMS prepared this set of FAQs to inform states and the public about the Streamlined Modular Certification (SMC) process and requirements. The [SMC Guidance](../SMC%20Guidance.pdf) is the primary source of information on the SMC process and requirements. Other helpful information is available in the MES Certification Repository, and State Officers are available to answer your questions. Questions may also be submitted via the Medicaid Enterprise System mailbox at <MES@cms.hhs.gov>. 
+CMS prepared this set of FAQs to inform states and the public about the Streamlined Modular Certification (SMC) process and requirements. The [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) is the primary source of information on the SMC process and requirements. Other helpful information is available in the MES Certification Repository, and State Officers are available to answer your questions. Questions may also be submitted via the Medicaid Enterprise System mailbox at <MES@cms.hhs.gov>. 
 
 - [Overview of SMC](#overview)
 - [What States Must Know about the SMC Process](#impact)
@@ -30,7 +30,7 @@ For all systems that comprise the MES, SMC is designed to:
 -	Leverage data and testing to better inform CMS’s assessment of the successful delivery of systems and better inform subsequent funding decisions.
 
 ### Q2: How can I learn about the new SMC process and requirements? 
-A: The [State Medicaid Director Letter (SMDL) # 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf) and the [SMC Guidance](../SMC%20Guidance.pdf) are the primary sources of information on the SMC process and requirements. Materials and tools are available to help facilitate the SMC process on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.  
+A: The [State Medicaid Director Letter (SMDL) # 22-001](https://www.medicaid.gov/federal-policy-guidance/downloads/smd22001.pdf) and the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf) are the primary sources of information on the SMC process and requirements. Materials and tools are available to help facilitate the SMC process on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.  
 
 ### Q3: Can we provide the entry criteria after we schedule the review?
 A: No. States must provide entry criteria for both ORR and CR before a formal review is scheduled. In order to reduce risk to the process, a state may not schedule a review with CMS more than three months before the intended date for the review.
@@ -94,7 +94,7 @@ The following are key takeaways and updates from the most recent version of the 
 - Electronic Visit Verification (EVV) Outcomes Based Certification (OBC) will follow the SMC Guidance.
 - Removed the CMS-required outcome appendices; they are now located only in the MES Certification Repository on GitHub.
 - Clarified which modules must be certified through the new “Scope of Certification”.
-- Introduced a new required Status Report template; refer to the MES Certification Repository [Templates Page]({{site.baseurl}}/Templates/) (this is required monthly for those performing SMC).
+- Introduced a new required Status Report template; refer to the MES Certification Repository [Templates Page](../Templates/) (this is required monthly for those performing SMC).
 - Introduced a new CEF metric for all MES modules; refer to the MES Certification Repository CEF page for metric details.
 
 ### Q12: How does a state determine if a system requires certification?
@@ -117,7 +117,7 @@ The letter formally sunsets the existing EVV OBC process. States must adhere to 
 
 ## Outcomes and Metrics {#outcomes}
 
-Please visit the [Metrics and Ongoing Reporting]({{site.baseurl}}/Ongoing Reporting/Overview/) page on GitHub for additional information.
+Please visit the [Metrics and Ongoing Reporting](../Ongoing Reporting/Overview/) page on GitHub for additional information.
 
 ### Q16: Are there resources to help states work with their State Officers to develop appropriate state-specific outcomes and metrics?
 A: States should discuss their ideas for outcomes early in the planning process and include these outcomes in the Advance Planning Document (APD). State-specific outcomes should be specific to the state’s IT investment and should help the state demonstrate progress toward meeting its goals. Resources to help states are available on [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/certification/streamlined-modular-certification/index.html) and the MES Certification Repository on GitHub.
@@ -156,11 +156,11 @@ A: The term “hard edits” for an EVV module means the claim should be denied 
 
 ## Conditions for Enhanced Funding {#CEF}
 
-Please visit the [Conditions for Enhanced Funding (CEF)]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) page on GitHub for examples of evidence.  The CEF includes privacy and security (please refer to CEF 9, 12, and 18). 
+Please visit the [Conditions for Enhanced Funding (CEF)](../Conditions for Enhanced Funding/CEFs/) page on GitHub for examples of evidence.  The CEF includes privacy and security (please refer to CEF 9, 12, and 18). 
 
-Please visit the [CEF Tips and Best Practices]({{site.baseurl}}/Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
+Please visit the [CEF Tips and Best Practices](../Conditions for Enhanced Funding/CEF Tips/) page on GitHub for additional tips and best practices.   
 
-Please visit the [CEF Security and Privacy]({{site.baseurl}}/Conditions for Enhanced Funding/Security and Privacy/) page on GitHub for additional security and privacy tips, best practices, and FAQs.  
+Please visit the [CEF Security and Privacy](../Conditions for Enhanced Funding/Security and Privacy/) page on GitHub for additional security and privacy tips, best practices, and FAQs.  
 
 ***
 
@@ -171,7 +171,7 @@ A: The states and CMS use the Intake Form to track what a state seeks to achieve
 
 Given that states must include state-specific outcomes and metrics in their APDs, it is important that the Intake Form matches what is listed in the APD. When a state approaches ORR and CR, it will need to meet with CMS to finalize and approve the specific evidence it will provide as part of the certification process.
 
-Please reach out to your State Officer to get the template.
+The Intake Form template is available in the MES Certification Repository as well as on Medicaid.gov.
 
 ### Q25: When should a state fill out the Intake Form?
 A: States should start filling out the Intake Form once the outcomes and metrics in the APD have been approved. If a state did not complete the Intake Form as part of the APD approval and the project is nearing ORR, CMS will work with the state to complete the Intake Form with outcomes and metrics selected by the state.
@@ -203,7 +203,7 @@ These operational reports should be submitted annually in support of the Operati
 ### Q30: What is the monthly project status report? Which states must start submitting these reports?
 A: The monthly project status report is required during the Development phase or DDI (i.e. after the Implementation APD is approved leading up to the CR). This report is required as part of ORR and CR evidence. The monthly project status report apprises CMS of the project’s progress toward achieving the CEF and desired program outcomes.
 
-The monthly project status report includes information and updates on progress tracking, the testing framework, test results, and the defect and risk list. Please reach out to your State Officer to get the template. The monthly project status report should be submitted to the state’s CMS State Officer via the applicable folder on CMS Box.
+The monthly project status report includes information and updates on progress tracking, the testing framework, test results, and the defect and risk list. The template is available in the MES Certification Repository on GitHub and Medicaid.gov. The monthly project status report should be submitted to the state’s CMS State Officer via the applicable folder on CMS Box.
 
 ### Q31: What are operational reports, and what are states’ obligations for submitting them?
 A: To effectively demonstrate ongoing, successful system operations, states must submit operational reports containing metric data to CMS. The state’s operational reports must contain the metrics noted in their APD. The metrics captured in the operational reports document that the system is meeting the state’s planned outcomes and are evidence that the module meets all applicable requirements to demonstrate ongoing, successful system operations for the state’s claimed federal matching funds.
@@ -216,8 +216,6 @@ States will submit monthly operational reports using the Operational Report Work
 
 ### Q32: Do operational reports need to be submitted using the Operational Report Workbook (ORW) template?
 A: Yes, CMS requires states use the ORW to ensure they capture all relevant details about their metrics in a format that can be included in the database. If state-submitted data does not align with the database, states will be asked to resubmit their data or risk failing compliance with required operational reporting.
-
-Please reach out to your State Officer to get the template.
 
 ***
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Streamlined Modular Certification (SMC) process uses the Intake Form Template (please reach out to your State Officer to get the template) to track information about a state’s single Medicaid Enterprise Systems (MES) system(s) or module undergoing certification. States must complete the Intake Form by entering the CMS-required outcomes and metric ID, which demonstrate compliance with relevant regulations for their specific system or module. States must also include their state-specific outcomes and the metrics used to show that the project is achieving its outcomes on a continuous basis.
+The Streamlined Modular Certification (SMC) process uses the [Intake Form Template](https://www.medicaid.gov/medicaid/data-and-systems/downloads/intake-form.xlsx) to track information about a state’s single Medicaid Enterprise Systems (MES) system(s) or module undergoing certification. States must complete the Intake Form by entering the CMS-required outcomes and metric ID, which demonstrate compliance with relevant regulations for their specific system or module. States must also include their state-specific outcomes and the metrics used to show that the project is achieving its outcomes on a continuous basis.
 
 ## Using the Intake Form
 
@@ -25,7 +25,7 @@ The state will use this tab to demonstrate the Conditions for Enhanced Funding�
 
 In the Evidence columns, list the file name(s) of documents containing supporting evidence as loaded in the CMS-designated repository. For lengthy documents, use the Comments column to specify relevant sections or paragraphs to assist the CMS Certification Team in the review process. If links to PDF files are included in the Intake Form, the corresponding PDF versions of any web file must also be uploaded to the CMS-designated repository for review.
 
-In the Comments column, the state can also describe how the contents of the evidence files meet the condition and any other information needed for evaluation. CEF criteria do not require demonstrations. States can refer to the [Conditions for Enhanced Funding]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) for example, and/or required evidence.
+In the Comments column, the state can also describe how the contents of the evidence files meet the condition and any other information needed for evaluation. CEF criteria do not require demonstrations. States can refer to the [Conditions for Enhanced Funding](../Conditions for Enhanced Funding/CEFs/) for example, and/or required evidence.
 
 All CEF criteria must be listed within the Intake Form. If a condition is not applicable, the state must mark “N/A” in the “State ORR Evidence” and “State CR Evidence” columns. The state must justify why the outcome is not applicable to their system in the “Comments” column for both the ORR and CR columns.
  
@@ -43,7 +43,7 @@ In the Evidence column, list the file name(s) of documents containing supporting
 State-specific outcomes reflect the unique goals and characteristics of a state’s Medicaid program and focus on improvements to the program not specifically addressed by the CMS-required outcomes. These outcomes should target specific business or policy problems that should be resolved with the implementation of the new system or module, and enable the state to demonstrate direct Medicaid program benefits. The metrics related to these outcomes should show how the states will measure their success. States should work with their CMS MES State Officer to finalize outcomes and metrics that address the proposed functionality.
 
 ### Numbering Conventions for State-Specific Outcomes
-States will create a unique reference number for their state-specific outcomes in the Intake Form. If the outcome is a state-specific outcome and not a CMS-required outcome, use the acronym "ST", followed by the appropriate module abbreviation and the appropriate numerical code. For example, if State “A” provides a state-specific measure for its LTSS module, the first outcome reference number would be STLTSS01. Note that these reference numbers must match the Outcome Reference # column in the Operational Reporting Workbook. (Please reach out to your State Officer to get the template.)
+States will create a unique reference number for their state-specific outcomes in the Intake Form. If the outcome is a state-specific outcome and not a CMS-required outcome, use the acronym "ST", followed by the appropriate module abbreviation and the appropriate numerical code. For example, if State “A” provides a state-specific measure for its LTSS module, the first outcome reference number would be STLTSS01. Note that these reference numbers must match the Outcome Reference # column in the [Operational Report Workbook](https://www.medicaid.gov/medicaid/data-and-systems/downloads/operational-report-workbook.xlsx).
 
 The CMS MES State Officer is a valuable resource if states have questions or need additional clarification. Many states employ the best practice of requesting early input that may limit the amount of rework for the state and produce a more efficient review.
 
@@ -54,11 +54,11 @@ In the “State ORR Required Artifact” and “State CR Required Artifact” co
 
 ## Resources
 For more information on CEFs and Outcomes:
--	[Conditions for Enhanced Funding]({{site.baseurl}}/Conditions for Enhanced Funding/CEFs/) 
--	[Outcomes and the Certification Process]({{site.baseurl}}/certification-process) 
--	[Writing a Good Outcome Statement]({{site.baseurl}}/writing-outcome-statements) 
+-	[Conditions for Enhanced Funding](../Conditions for Enhanced Funding/CEFs/) 
+-	[Outcomes and the Certification Process](../certification-process) 
+-	[Writing a Good Outcome Statement](../writing-outcome-statements) 
 
-States can also find more details within the [SMC Guidance](../SMC%20Guidance.pdf), including additional details on:
+States can also find more details within the [SMC Guidance](https://www.medicaid.gov/medicaid/data-and-systems/downloads/smc-certification-guidance.pdf), including additional details on:
 -	Scope of Certification
 -	SMC process
 -	Required Artifacts List

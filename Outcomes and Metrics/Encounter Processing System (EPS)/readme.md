@@ -24,7 +24,7 @@ Each CMS-Required outcome is based on statutory or regulatory requirements. CMS-
 
 States requesting enhanced FFP for systems that fulfill _state-specific program needs,_ beyond minimum legal requirements and the baseline of the _CMS-required outcomes_, should propose _State-Specific Outcomes_ which address the proposed enhancements.
 
-When drafting state-specific outcomes statements, keep [these tips]({{ site.baseurl }}/writing-outcome-statements) in mind.
+When drafting state-specific outcomes statements, keep [these tips](../../writing-outcome-statements) in mind.
 
 ### Examples for Encounter Processing Systems
 
